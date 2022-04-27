@@ -4,10 +4,11 @@ Trilha ReactJS
 
 ## O que esta sendo usado
 
-ReactJS
-Typescript
-Styled-components
-Axios
-Hooks
+- ReactJS 
+- Typescript 
+- Styled-components 
+- React-model
+- Axios 
+- Hooks 
 
 Em andamento...
